@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2160 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+        fill-rule: evenodd;
+        mix-blend-mode: multiply;
+        opacity: .2;
+      }
+
+      .cls-3 {
+        fill: #4ef5ad;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        opacity: .8;
+      }
+
+      .cls-8 {
+        fill: #eb529c;
+      }
+
+      .cls-9 {
+        fill: #d14f6e;
+      }
+
+      .cls-10 {
+        isolation: isolate;
+      }
+
+      .cls-11 {
+        fill: #e65a50;
+      }
+
+      .cls-11, .cls-12 {
+        opacity: .9;
+      }
+
+      .cls-4 {
+        fill: #f2c54d;
+      }
+
+      .cls-13 {
+        fill: #73f04d;
+      }
+
+      .cls-5 {
+        fill: #774ebc;
+      }
+
+      .cls-14 {
+        fill: #ffff4c;
+      }
+
+      .cls-6 {
+        fill: #4ebee8;
+      }
+
+      .cls-15 {
+        fill: url(#_未命名的渐变_16);
+      }
+
+      .cls-16 {
+        fill: url(#_未命名的渐变_12);
+      }
+
+      .cls-17 {
+        fill: url(#_未命名的渐变_21);
+      }
+
+      .cls-18 {
+        fill: #efc750;
+      }
+
+      .cls-7 {
+        fill: #53d5ea;
+      }
+
+      .cls-12 {
+        fill: #78e750;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_12" data-name="未命名的渐变 12" x1="1056.15" y1="1586.05" x2="1056.15" y2="-2.68" gradientTransform="translate(1415.74 2289.49) rotate(-66.01) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9b841"/>
+      <stop offset="1" stop-color="#f9f441"/>
+    </linearGradient>
+    <mask id="mask" x="197.87" y="257.98" width="2016.66" height="1490.91" maskUnits="userSpaceOnUse">
+      <path class="cls-16" d="M1934.78,1047.24c71.94-595.47-647.29-838.85-1199.7-572.51C190.18,737.45,125.91,1321.56,375.51,1434.54c203.56,92.14,118.83-147.77,811.6,49.05,539.92,153.4,714.4-160.92,747.67-436.35Z"/>
+    </mask>
+    <radialGradient id="radial-gradient" cx="844.29" cy="2592.26" fx="844.29" fy="2592.26" r="63.89" gradientTransform="translate(-8741.13 -213.74) scale(11.7 .74)" gradientUnits="userSpaceOnUse">
+      <stop offset=".32" stop-color="#8a8a8a"/>
+      <stop offset=".36" stop-color="#a3a3a3"/>
+      <stop offset=".41" stop-color="#bfbfbf"/>
+      <stop offset=".47" stop-color="#d7d7d7"/>
+      <stop offset=".54" stop-color="#e9e9e9"/>
+      <stop offset=".63" stop-color="#f5f5f5"/>
+      <stop offset=".74" stop-color="#fcfcfc"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <linearGradient id="_未命名的渐变_16" data-name="未命名的渐变 16" x1="235.75" y1="890.95" x2="2172.08" y2="890.95" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9b841"/>
+      <stop offset="1" stop-color="#f9f441"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_21" data-name="未命名的渐变 21" x1="1562.51" y1="1477.33" x2="2356.55" y2="1477.33" gradientTransform="translate(-115.1 -90.84)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#96bd2b"/>
+      <stop offset="1" stop-color="#39bacf"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-10">
+    <g id="_图层_1" data-name="图层 1">
+      <g class="cls-1">
+        <g>
+          <path class="cls-2" d="M1883.57,1701.68c0,26.08-334.66,47.21-747.46,47.21s-747.45-21.13-747.45-47.21,334.64-47.21,747.45-47.21,747.46,21.13,747.46,47.21Z"/>
+          <rect class="cls-15" x="235.75" y="257.98" width="1936.33" height="1265.95"/>
+          <rect class="cls-7" x="1199.64" y="1352.63" width="485.5" height="174.26" rx="35.83" ry="35.83" transform="translate(-593.04 1541.73) rotate(-47.82)"/>
+          <ellipse class="cls-17" cx="1844.43" cy="1386.49" rx="397.02" ry="273.34" transform="translate(-446.14 1107.97) rotate(-30)"/>
+          <rect class="cls-14" x="200.59" y="654.21" width="567.69" height="145.4" rx="35.83" ry="35.83" transform="translate(-379.5 597.74) rotate(-47.82)"/>
+          <rect class="cls-13" x="125.24" y="901.66" width="745.04" height="174.26" rx="35.83" ry="35.83" transform="translate(-569.18 693.63) rotate(-47.82)"/>
+          <rect class="cls-3" x="239.04" y="542.61" width="553.56" height="145.4" rx="35.83" ry="35.83" transform="translate(-286.5 584.34) rotate(-47.82)"/>
+          <path class="cls-8" d="M802.72,1012.6l-365.6,403.42c-13.23,14.6-12.11,37.37,2.49,51.44l76.03,68.9c14.6,12.4,37.37,11.28,50.6-3.32l365.6-403.42c13.23-14.6,12.11-37.37-2.49-50.6l-76.03-68.9c-14.6-13.23-37.37-12.11-50.6,2.49Z"/>
+          <rect class="cls-8" x="1074.89" y="1253.12" width="485.5" height="174.26" rx="35.83" ry="35.83" transform="translate(-560.29 1416.59) rotate(-47.82)"/>
+          <rect class="cls-6" x="142.22" y="910.65" width="995.78" height="271.63" rx="35.83" ry="35.83" transform="translate(-565.15 818.06) rotate(-47.82)"/>
+          <rect class="cls-4" x="715.13" y="1188.07" width="841.96" height="271.63" rx="35.83" ry="35.83" transform="translate(-607.79 1276.72) rotate(-47.82)"/>
+          <rect class="cls-11" x="393.7" y="1217.25" width="841.96" height="271.63" rx="35.83" ry="35.83" transform="translate(-734.99 1048.12) rotate(-47.82)"/>
+          <rect class="cls-18" x="1570.91" y="623.08" width="400.13" height="104.81" rx="35.83" ry="35.83" transform="translate(81.21 1534.16) rotate(-47.82)"/>
+          <rect class="cls-12" x="1531.06" y="760.79" width="400.13" height="145.4" rx="35.83" ry="35.83" transform="translate(-48.97 1556.53) rotate(-47.82)"/>
+          <rect class="cls-5" x="1630.23" y="709.4" width="567.69" height="145.4" rx="35.83" ry="35.83" transform="translate(49.21 1675.2) rotate(-47.82)"/>
+          <rect class="cls-9" x="1326.13" y="727.23" width="38.51" height="171.37" rx="10.02" ry="10.02" transform="translate(817.02 -667.54) rotate(39.22)"/>
+          <rect class="cls-14" x="1182.31" y="511.08" width="25.1" height="171.37" rx="10.58" ry="10.58" transform="translate(646.45 -621.05) rotate(39.22)"/>
+          <rect class="cls-18" x="1214.25" y="350.13" width="10.39" height="90.01" rx="4.38" ry="4.38" transform="translate(524.51 -682.01) rotate(39.22)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
